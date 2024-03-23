@@ -1,14 +1,14 @@
 {
     "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/HelloWRC/classisland-mgmt-configs/master/TestProfile.json",
+        "Value": "https://raw.githubusercontent.com/jiangyin14/classisland-mgmt-configs/master/TestProfile.json",
         "Version": 1
     },
     "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/HelloWRC/classisland-mgmt-configs/master/TestProfile.json",
+        "Value": "https://raw.githubusercontent.com/jiangyin14/classisland-mgmt-configs/master/TestProfile.json",
         "Version": 1
     },
     "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/HelloWRC/classisland-mgmt-configs/master/TestProfile.json",
+        "Value": "https://raw.githubusercontent.com/jiangyin14/classisland-mgmt-configs/master/TestProfile.json",
         "Version": 1
     },
     "DefaultSettingsSource": {
@@ -16,9 +16,9 @@
         "Version": 0
     },
     "PolicySource": {
-        "Value": "https://raw.githubusercontent.com/HelloWRC/classisland-mgmt-configs/master/policy.json",
+        "Value": "https://raw.githubusercontent.com/jiangyin14/classisland-mgmt-configs/master/policy.json",
         "Version": 2
     },
     "ServerKind": 0,
-    "OrganizationName": "Test Organization"
+    "OrganizationName": "北京市海淀外国语实验学校京北初三年级-姜胤实际控制"
 }
