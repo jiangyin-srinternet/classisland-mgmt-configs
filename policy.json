@@ -5,5 +5,5 @@
     "DisableProfileEditing": true,
     "DisableSettingsEditing": false,
     "DisableSplashCustomize": true,
-    "DisableDebugMenu": true
+    "DisableDebugMenu": false
 }
