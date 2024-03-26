@@ -1,9 +1,9 @@
 {
     "DisableProfileClassPlanEditing": true,
-    "DisableProfileTimeLayoutEditing": true,
+    "DisableProfileTimeLayoutEditing": false,
     "DisableProfileSubjectsEditing": true,
     "DisableProfileEditing": true,
     "DisableSettingsEditing": false,
-    "DisableSplashCustomize": true,
+    "DisableSplashCustomize": false,
     "DisableDebugMenu": false
 }
